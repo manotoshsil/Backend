@@ -1,0 +1,10 @@
+app-dir: C:/IonicTuts/MakFullApp/HelionPush
+disk: 2048
+memory: 256
+name: HelionPush
+services:
+  manomysql:
+    label: mysql
+    plan: free
+    provider: core
+    version: 5.5
